@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3b1632;
+  background: #260f87;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2564,6 +2564,6 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("/images/hitboy.JPG");
+  background: url("/images/hitboy.jpg");
   background-attachment: fixed;
 }
